@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset= "utf-8" />
+<title> REAL MADRID </title>
+<link rel="stylesheet" href="css/css.css" type="text/css">
+</head>
+
+<body>
+
+    <div id="Pagina">
+   <div id="Cabecera"> 
+       <ul>
+       <li><a href="index.html">Inicio</a></li>
+         <li><a href="html/Trofeos.html">Trofeos</a></li>
+         <li><a href="html/Goleadores.html">Goleadores</a></li>
+         <li><a href="html/Plantilla.html">Plantilla</a></li>
+         <li><a href="html/Equipaciones.html">Equipaciones</a></li>
+          
+       </ul>
+    </div>
+
+ <hr>
+ <h1> <center> REAL MADRID  </center> </h1>
+ <center>   <img src="img/i1.jpg">  </center> 
+
+ <div class="p1"> El Real Madrid C.F. <b> es el club más exitoso de la historia del fútbol </b>. Es el único con las cifras récord de 13 Copas de Europa y 33 Ligas. <br> <br> 
+ 
+ El Real Madrid Club de Fútbol, más conocido simplemente como Real Madrid, es una entidad polideportiva con sede en Madrid, España. Fue declarada oficialmente registrada como club de fútbol por sus socios el 6 de marzo de 1902 con el objeto de la práctica y desarrollo de este deporte —si bien sus orígenes datan al año 1900,9​ y su denominación de (Sociedad) Madrid Foot-ball Club a noviembre de 1901— siendo el quinto club fundado en la capital.n. 3​ Tuvo a Julián Palacios y los hermanos Juan Padrós y Carlos Padrós como principales valedores de su creación.<br> <br> 
+ </div>
+ 
+ 
+ <div class="p2"> Identificado por su color blanco del que recibe el apelativo de <b>blancos</b> o <b>merengues</b>, es uno de los cuatro clubes profesionales de fútbol del país cuya entidad jurídica no es la de sociedad anónima deportiva, ya que su propiedad recae en sus más de 100 000 socios. Otra salvedad comparte con el Athletic Club y el Fútbol Club Barcelona al participar sin interrupción en la máxima categoría de la Liga Nacional de Fútbol Profesional, la Primera División de España, desde su establecimiento en 1929.12​ En ella posee los honores de haber sido el primer líder histórico de la competición, es el club con más títulos, y el de la máxima puntuación en una sola edición
+ </div>
+ 
+ <hr>
+ <h2> ESTADIO DEL REAL MADRID   </h2>
+ <center> <img src="img/i2.jpg"> </center>
+ 
+ <div class="p3"> El estadio del Real Madrid fue inaugurado el 14 de diciembre de 1947. Anteriormente el Real Madrid jugaba en el Viejo Chamartín. A través de los años el estadio Santiago Bernabéu ha pasado por varias restauraciones que han dado como resultado que hoy luzca muy moderno.
+
+Las remodelaciones se llevaron a cabo en 1954, 1982, 1993 y 2003. La última renovación realizada fue poner una nueva cubierta en la parte llamada Padre Damián.
+
+TEl primer partido que se jugó allí fue entre el Real Madrid y OS Belenenses (el club portugués), el 14 de diciembre de 1947.
+
+<i> Santiago Bernabéu </i> fue el hombre que tuvo la visión de crear el estadio, y es por eso que lleva su nombre, ya que al momento de su construcción el estadio del Real Madrid era el mejor de todos. <br> <br>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.042633062649!2d-3.692847684678587!3d40.45219336140605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228e2fe54acd3%3A0x7bdf12a106fcb23e!2sSantiago%20Bernab%C3%A9u!5e0!3m2!1ses-419!2sco!4v1598099440253!5m2!1ses-419!2sco" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+ </div>
+
+</div>
+ 
+<hr>
+<center>
+<footer>
+  <address>
+    Autor: Ender Julian Racines Torres<br>
+    correo: enderjulian2003@gmail.com
+  </address>
+</footer>
+  </center>
+</body>
+</html>
