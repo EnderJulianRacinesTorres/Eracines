@@ -1,0 +1,51 @@
+@charset "utf-8";
+body {background-image:url(../img/i4.jpg)
+}
+
+#Pagina{Margin:45px;
+}
+
+#Cabecera{background-color:#88CFD5;
+
+}
+
+#cabecera{Font-family:"Comic Sans MS", cursive;
+
+}
+
+#Cabecera ul li{
+display:inline-block;	
+}
+
+#Cabecera ul li a{
+color:#000
+display:block;
+padding:5px 50px;
+text-decoration: none;
+Font-size:30px;
+}
+
+
+h1{
+Font-family:"Comic Sans MS", cursive;
+Font-size:24px;
+ }
+ .p1{ Font-family:"Comic Sans MS", cursive;
+     Font-size:24px;
+	 color:#000;
+}	 
+
+
+ h3{
+Font-family:"Comic Sans MS", cursive;
+Font-size:24px;
+color:#000
+}	 
+
+.p2{ Font-family:"Comic Sans MS", cursive;
+     Font-size:24px;
+	 color:#FFF;
+}	/* CSS Document */
+table{Font-size:25px
+
+}
